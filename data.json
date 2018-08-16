@@ -1,0 +1,38 @@
+
+// res.data.proList 获取数据
+{
+  "proList": [{
+      "logo": "/images/pro_01.jpg",
+      "title": "信贷标题",
+      "desc": "描述信息"
+    },
+    {
+      "logo": "/images/pro_02.jpg",
+      "title": "信贷标题",
+      "desc": "描述信息"
+    },
+    {
+      "logo": "/images/pro_03.jpg",
+      "title": "信贷标题",
+      "desc": "描述信息"
+    }
+  ]
+}
+
+
+// res.data 即可以获取数据
+[{
+  "logo": "/images/pro_01.jpg",
+  "title": "信贷标题",
+  "desc": "描述信息"
+},
+{
+  "logo": "/images/pro_02.jpg",
+  "title": "信贷标题",
+  "desc": "描述信息"
+},
+{
+  "logo": "/images/pro_03.jpg",
+  "title": "信贷标题",
+  "desc": "描述信息"
+}]
